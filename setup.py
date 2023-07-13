@@ -12,5 +12,5 @@ setup(name='var',
           'numba',
           'tqdm',
       ],
-      python_requires='>=3.6,<3.11',
+      python_requires='>=3.6',
       include_package_data=False)
