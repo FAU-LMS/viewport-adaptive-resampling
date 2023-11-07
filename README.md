@@ -2,7 +2,7 @@
 
 Python packages for Viewport-Adaptive Resampling and Keypoint-Agnostic Frequency-Selective Mesh-to-Mesh Resampling.
 
-* A. Regensky, V. Heimann, R. Zhang, and A. Kaup, "Improving Spherical Image Resampling through Viewport-Adaptivity," accepted for *IEEE International Conference on Image Processing*, Oct. 2023, preprint available: [arxiv:2306.13692](https://arxiv.org/abs/2306.13692).
+* A. Regensky, V. Heimann, R. Zhang, and A. Kaup, "Improving Spherical Image Resampling through Viewport-Adaptivity," in *Proceedings of the IEEE International Conference on Image Processing*, Oct. 2023, doi: [10.1109/ICIP49359.2023.10222645](https://doi.org/10.1109/ICIP49359.2023.10222645).
 * V. Heimann, N. Genser, and A. Kaup, "Key Point Agnostic Frequency-Selective Mesh-to-Grid Image Resampling using Spectral Weighting," in *Proceedings of the IEEE 22nd International Workshop on Multimedia Signal Processing*, Sep. 2020, doi: [10.1109/MMSP48831.2020.9287096](https://doi.org/10.1109/MMSP48831.2020.9287096).
 
 ## Setup
@@ -101,8 +101,8 @@ If you use this software in your work, please cite
     booktitle={Proceedings of the IEEE International Conference on Image Processing},
     year={2023},
     month = oct,
-    pages={tba},
-    doi={tba}
+    pages={1730-1734},
+    doi={10.1109/ICIP49359.2023.10222645}
 }
 
 % Keypoint Agnostic Frequency-Selective Mesh-to-Grid Resampling (FSMR)
